@@ -186,3 +186,11 @@ df5
 ![Screenshot(241).png](./Screenshot%20(241).png)
 ![Screenshot(242).png](./Screenshot%20(242).png)
 ![Screenshot(243).png](./Screenshot%20(243).png)
+# Titanic.csv
+![Screenshot(251).png](./Screenshot%20(251).png)
+![Screenshot(252).png](./Screenshot%20(252).png)
+![Screenshot(253).png](./Screenshot%20(253).png)
+![Screenshot(254).png](./Screenshot%20(254).png)
+![Screenshot(255).png](./Screenshot%20(255).png)
+![Screenshot(256).png](./Screenshot%20(256).png)
+![Screenshot(257).png](./Screenshot%20(257).png)
